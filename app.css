@@ -2,7 +2,6 @@
     margin: 0;
 }
 body{
-    background-color:#1F363D;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 20px;
 }
@@ -13,5 +12,19 @@ section{
     margin-bottom: 20px;
     padding: 20px;
     text-align: center;
-    background-color:#CFE0C3;
+    background-color:aliceblue; 
+}
+
+h2{
+    margin: 1em;
+    border: 2px solid black;
+    box-shadow: 10px 5px 1px black;
+    width: 20%;
+    background-color:#1F363D ;
+    color: white;
+    border-radius: 5px;
+    
+}
+#heading{
+    margin: 1em;
 }
